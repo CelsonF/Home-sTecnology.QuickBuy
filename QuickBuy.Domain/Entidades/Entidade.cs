@@ -6,5 +6,6 @@ namespace QuickBuy.Domain.Entity
 {
     public abstract class Entidade
     {
+
     }
 }

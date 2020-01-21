@@ -10,14 +10,14 @@ namespace QuickBuy.Domain.Entity
         public int Id { get; set; }
         public DateTime DataPedido { get; set; }
         public int UsuarioId { get; set; }
+
         public DateTime DataPrevisaoEntrega { get; set; }
-        public int MyProperty { get; set; }
+
         public string CEP { get; set; }
         public string Estado { get; set; }
         public string Cidade { get; set; }
         public string EnderecoCompleto { get; set; }
         public int NumeroEndereco { get; set; }
-
 
         public int FormaPagamentoId { get; set; }
         public FormaPagamento FormaPagamento { get; set; }
@@ -26,7 +26,6 @@ namespace QuickBuy.Domain.Entity
         /// Pedido deve ter pelo menos um item de pedido
         /// ou muitos itens de pedidos
         /// </summary>
-        public ICollection<ItemPedido> itensPedido { get; set; }
-
+        public ICollection<ItemPedido> ItensPedido { get; set; }
     }   
 }
