@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\celson\\Desktop\\respository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {}
+    "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\celson\\Desktop\\respository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {
+    "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\celson\\Desktop\\respository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
         "projectName": "QuickBuy.Repository",
-        "projectPath": "C:\\Users\\celson\\Desktop\\respository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "projectPath": "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
         "packagesPath": "C:\\Users\\celson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\celson\\Desktop\\respository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\obj\\",
+        "outputPath": "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

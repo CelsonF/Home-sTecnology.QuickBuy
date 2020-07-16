@@ -5,3 +5,11 @@ C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.AssemblyInfo.cs
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.dll
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.pdb
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.0\QuickBuy.Domain.deps.json
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.0\QuickBuy.Domain.dll
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp3.0\QuickBuy.Domain.pdb
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.csprojAssemblyReference.cache
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.AssemblyInfo.cs
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.dll
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp3.0\QuickBuy.Domain.pdb

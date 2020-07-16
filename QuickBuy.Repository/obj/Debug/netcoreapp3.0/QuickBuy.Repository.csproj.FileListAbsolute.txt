@@ -6,3 +6,11 @@ C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Repository
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.AssemblyInfo.cs
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.dll
 C:\Users\celson\Desktop\respository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.pdb
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp3.0\QuickBuy.Repository.deps.json
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp3.0\QuickBuy.Repository.dll
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp3.0\QuickBuy.Repository.pdb
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.csprojAssemblyReference.cache
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.AssemblyInfoInputs.cache
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.AssemblyInfo.cs
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.dll
+C:\Users\celson\Desktop\repository\Home'sTecnology.QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp3.0\QuickBuy.Repository.pdb
