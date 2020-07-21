@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cF1a6eTfCsUsf9A9ZmCHjFapVsuL3WjaEcV36nxzBP+D1OLjZZd7zHbDRtLNc+L7SNI+mf+Kxe4EaqWC6sbn1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\celson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\celson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

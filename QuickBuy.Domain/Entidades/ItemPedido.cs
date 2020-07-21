@@ -13,7 +13,15 @@ namespace QuickBuy.Domain.Entity
 
         public override void Validate()
         {
-            throw new NotImplementedException();
+            if (ProdutoId == 0)
+            {
+                AdicionarAviso("Não foi possivel identificar qual é o Produto.");
+            }
+
+            if (Quantidade == 0)
+            {
+                AdicionarAviso("Quantidade de produto não informada.");
+            }
         }
     }
 }

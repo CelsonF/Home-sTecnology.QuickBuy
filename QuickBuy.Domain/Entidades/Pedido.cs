@@ -43,6 +43,11 @@ namespace QuickBuy.Domain.Entity
             {
                 AdicionarAviso("Aviso!!! CEP não pode estar vazio.");
             }
+
+            if (FormaPagamentoId == 0)
+            {
+                AdicionarAviso("Aviso!!! Nâo foi informado a forma de pagamento.");
+            }
         }
     }   
 }
