@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "QuickBuy.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/QuickBuy.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuickBuy.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "QuickBuy.Domain/1.0.0": {
+      "type": "project",
+      "path": "../QuickBuy.Domain/QuickBuy.Domain.csproj",
+      "msbuildProject": "../QuickBuy.Domain/QuickBuy.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "QuickBuy.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\celson\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj": {
+              "projectPath": "C:\\Users\\celson\\Desktop\\repository\\Home'sTecnology.QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

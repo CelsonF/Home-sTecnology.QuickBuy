@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\QuickBuy.Domain\QuickBuy.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
